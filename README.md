@@ -12,7 +12,7 @@
 
 <!-- REDES SOCIAIS / QUICK LINKS -->
 <a href="https://www.linkedin.com/in/isabelly-sofia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sosousoll@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sosousoll@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/IsabellySofia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
