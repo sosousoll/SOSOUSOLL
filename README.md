@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL / HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=ISABELLY%20SOFIA%20&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8a2be2,100:a855f7&height=220&section=header&text=ISABELLY%20SOFIA&fontSize=38&fontColor=000000&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=System.Status%20%3D%20%22ONLINE%22;Core.Role%20%3D%20%22Software%20Engineering%20Student%22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software%20Engineering%20Student" alt="Typing Animation" />
 </a>
 
 <br/><br/>
@@ -19,7 +19,9 @@
 
 ---
 
-## 🤖 Sobre Mim
+##  Sobre Mim
 
 ```sys
-Hello! Meu nome é Isabelly Sofia e sou estudante de engenharia de software, meu com foco me desenvolver cade vez mais na área de DevOps e Banco de Dados. Tenho conhecimento em Pascal e Python e agora estou iniciando minha jornada em Java
+Hello! Meu nome é Isabelly Sofia e sou estudante de engenharia de software,
+meu com foco me desenvolver cade vez mais na área de DevOps e Banco de Dados.
+Tenho conhecimento em Pascal e Python e agora estou iniciando minha jornada em Java
