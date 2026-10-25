@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL / HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=ISABELLY%20SOFIA%20v4.0&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=ISABELLY%20SOFIA%20.0&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -19,10 +19,7 @@
 
 ---
 
-## 🤖 `> system.profile` // Sobre Mim
+## 🤖 Sobre Mim
 
 ```sys
-[SYSTEM MATRIX]: ACTIVE
-[USER CLASS]: Software Engineering Student
-[LOCATION]: Brasil 📍
-[SPECIALIZATION]: DevOps & Database
+Hello! Meu nome é Isabelly Sofia e sou estudante de engenharia de software, meu com foco me desenvolver cade vez mais na área de DevOps e Banco de Dados. Tenho conhecimento em Pascal e Python e agora estou iniciando minha jornada em Java
